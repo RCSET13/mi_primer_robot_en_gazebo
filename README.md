@@ -7,14 +7,14 @@ Repositorio para AR_VA
 ## Medidas para el chasis:
 [X, Y, Z] = [0.3, 1.0, 0.1]
 
-## Medidas para la llanta
+## Medidas para la llanta:
 • Z pose = 0.2
 
 • Roll = 1.5707 rad
 
 • Visual and Collision geometry: [Radius, Length] = [0.2, 0.1]
 
-## Medidas para la oficina
+## Medidas para la oficina:
 ![mapa](https://user-images.githubusercontent.com/81781767/113630640-cfdd1780-962d-11eb-9760-10cfef6cb855.jpg)
 
 
